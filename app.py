@@ -14,8 +14,7 @@ def generate_buzz():
     page += "<hr>"
     page += "Fuck yeah!! it works!!"
     page += "<hr>"
-    page += "greate thing for developer"
-    page += "<hr>"
+    page += "<a href 'https://www.upwork.com/freelancers/~01a6738208d8e81707'>Hire me<hr>"
 
     page += '</h1></body></html>'
     return page
