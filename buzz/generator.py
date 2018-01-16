@@ -10,7 +10,7 @@ verbs = ('accelerates', 'improves', 'enhances', 'revamps', 'boosts')
 """
 
 
-buzz = ('Happy', "Fun", "Long")
+buzz = ('Happy2', "Fun2", "Long2")
 adjectives = ("New yar", "Cristmas", "Holydays") 
 adverbs = ('remarkably', 'enormously', 'substantially', 'significantly',
     'seriously')
