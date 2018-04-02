@@ -1,20 +1,12 @@
 import random
 
-"""
 buzz = ('continuous testing', 'continuous integration',
     'continuous deployment', 'continuous improvement', 'devops')
 adjectives = ('complete', 'modern', 'self-service', 'integrated', 'end-to-end')
 adverbs = ('remarkably', 'enormously', 'substantially', 'significantly',
     'seriously')
 verbs = ('accelerates', 'improves', 'enhances', 'revamps', 'boosts')
-"""
 
-
-buzz = ('Happy2', "Fun2", "Long2")
-adjectives = ("New yar", "Cristmas", "Holydays") 
-adverbs = ('remarkably', 'enormously', 'substantially', 'significantly',
-    'seriously')
-verbs = ('Have', '', '', "enjoy", "Get drunk")
 def sample(l, n = 1):
     result = random.sample(l, n)
     if n == 1:
