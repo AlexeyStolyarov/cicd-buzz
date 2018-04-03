@@ -30,9 +30,7 @@ def generate_buzz():
     """
     page += "</ul>"
     page += "<hr>"
-    page += "<h2>my profile below:</h2>"
-    page += "<a href 'https://www.upwork.com/freelancers/~01a6738208d8e81707'>Hire me<hr>"
-
+    page += "<H2>my profile on Upwork: <a href 'https://www.upwork.com/freelancers/~01a6738208d8e81707'>Hire me</a></H2>"
     page += '</h1></body></html>'
     return page
 
