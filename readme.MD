@@ -2,11 +2,10 @@
 [![Build Status](https://travis-ci.org/AlexeyStolyarov/cicd-buzz.svg?branch=master)](https://travis-ci.org/AlexeyStolyarov/cicd-buzz)
 
 
-
-CI/CD example from
-https://habrahabr.ru/company/southbridge/blog/329262/
-
+This is CI/CD example with Github + Travis-CI + Heroku + Docker
+made step by step  from https://habrahabr.ru/company/southbridge/blog/329262/
 
 
-test app can be viwerd on https://aqueous-shelf-74437.herokuapp.com
+
+test app can be viewed on https://aqueous-shelf-74437.herokuapp.com
 
