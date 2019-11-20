@@ -6,6 +6,3 @@ This is CI/CD example with Github + Travis-CI + Heroku + Docker
 made step by step  from https://habrahabr.ru/company/southbridge/blog/329262/
 
 
-
-test app can be viewed on https://aqueous-shelf-74437.herokuapp.com
-
